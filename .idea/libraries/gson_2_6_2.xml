@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="gson-2.6.2">
+    <CLASSES>
+      <root url="jar://C:/java libraries/gson-2.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/java libraries/jfreechart-1.0.19/experimental" />
+      <root url="file://C:/java libraries/jfreechart-1.0.19/source" />
+      <root url="file://C:/java libraries/jfreechart-1.0.19/swt" />
+      <root url="file://C:/java libraries/jfreechart-1.0.19/tests" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
